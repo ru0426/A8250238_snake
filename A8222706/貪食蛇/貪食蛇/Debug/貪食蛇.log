@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\貪食蛇\貪食蛇\Source.cpp(73): warning C4715: 'star': 不是所有控制路徑都傳回值
+  貪食蛇.vcxproj -> C:\Users\User\Desktop\貪食蛇\Debug\貪食蛇.exe
