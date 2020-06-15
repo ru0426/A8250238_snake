@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\吳怡璇\desktop\a000\project4\project4\source.cpp(137): warning C4101: 'i': 未參考的區域變數
+c:\users\吳怡璇\desktop\a000\project4\project4\source.cpp(60): warning C4715: 'head': 不是所有控制路徑都傳回值
+  Project4.vcxproj -> C:\Users\吳怡璇\Desktop\A000\Project4\Debug\Project4.exe
