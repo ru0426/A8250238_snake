@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Pei.Pei.0w0\Desktop\貪食蛇\Source.cpp(137,9): warning C4101: 'i': 未參考的區域變數
+C:\Users\Pei.Pei.0w0\Desktop\貪食蛇\Source.cpp(60): warning C4715: 'head': 不是所有控制路徑都傳回值
+  貪食蛇.vcxproj -> C:\Users\Pei.Pei.0w0\Desktop\貪食蛇\Debug\貪食蛇.exe
